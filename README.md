@@ -106,6 +106,36 @@
 <p>- Descobrir e aprender varias sintaxes de HTML utilizadas em grandes projetos, ganhando familiaridade com a linguagem de marcação</p>
 
 <br>
+
+<table align="center">
+    <tr>
+      <th width="300px">Tecnologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Git / Github</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Flask</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Html</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Css</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+
+<br>
+
 <hr>
 
 <h3 id="2Semestre">Sistema de Gestão de Chamadas de Serviço</h3>
@@ -162,9 +192,48 @@
 <p>- Tive mais contato com Linguagens utilizadas em grandes projetos de sistemas Web</p>
 
 <p>- Adquiri mais familiariedade com sistemas desenvolvidos utilizando Typescript, Node.js e React</p>
-⁣<p>- Pude gerir a equipe de desenvolvimento como Product Owner e busquei métodos de documentar e gestão de uma equipe</p>
+
+<p>⁣- Pude gerir a equipe de desenvolvimento como Product Owner e busquei métodos de documentar e gestão de uma equipe</p>
 
 <br>
+
+<table align="center">
+    <tr>
+      <th width="300px">Tecnologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Git / Github</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+        <td>Node.js</td>
+        <td>★★☆☆☆</td>
+      </tr>
+    <tr>
+      <td>Html</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Css</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>MySql</td>
+        <td>★★☆☆☆</td>
+      </tr>
+  </table>
+
+<br>
+
 <hr>
 
 <h3 id="3Semestre">Sistema Gerenciador de Ativos</h3>
@@ -226,6 +295,51 @@
 <p>- Novas habilidades em definir prazos, entregas, prioridades e gerenciar a expectativa do cliente e da equipe de desenvolvimento</p>
 
 <p>- Aprimoramento de minhas habilidades em desenvolver sistemas orientados a objetos</p>
+
+<br>
+
+<table align="center">
+    <tr>
+      <th width="300px">Tecnologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Git / Github</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+        <td>Node.js</td>
+        <td>★★★☆☆</td>
+      </tr>
+      <td>Java</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+        <td>Spring</td>
+        <td>★★☆☆☆</td>
+      </tr>
+    <tr>
+      <td>Html</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Css</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>MySql</td>
+        <td>★★★★☆</td>
+      </tr>
+      <tr>
+  </table>
 
 <br>
 <hr>
