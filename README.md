@@ -57,6 +57,7 @@
 
 <h3>Sistema de Analise de Dados Relacionados à Covid Longa</h3>
 <h4 id="1Semestre"> → 1º Semestre de 2023</h4>
+<h4> Equipe: <a href="https://github.com/api-fatec-primeiro-semestre">ACE: </a> Sistema de Analise de Dados da Covid Longa</h4>
 <br>
 <h4>Parceiro Acadêmico:</h4>
 
@@ -74,6 +75,7 @@
 
 <div style="display: flex; flex-direction: row;">
 
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 10%;" alt="Git">
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" style="width: 10%;" alt="Python">
   <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" style="width: 10%;" alt="Flask">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 10%;" alt="Html5">
@@ -83,7 +85,7 @@
 
 <br>
 <h5>Visualização do Projeto Final</h5>
-<p align="center"> <img src="./public/videos/Wireframe.gif" style="width: 75%;" alt="Gif do Projeto do 1 Semestre"> </p>
+<p align="center"> <img src="./public/videos/1Semestre_API_Wireframe.gif" style="width: 75%;" alt="Gif do Projeto do 1 Semestre"> </p>
 
 <br>
 
@@ -97,19 +99,20 @@
 
 <h5>Oque Aprendi Durante o Desenvolvimento: </h5>
 
-<p>- Graças as necessidades do projeto pude aprender a começar a mexer com Flask e Python, podendo aprender sobre a estrutura de um sistema utilizando Flask.</p>
+<p>- Pude aprender a começar a trabalhar com Flask e Python, podendo aprender sobre a estrutura de um sistema utilizando Flask.</p>
 
-<p>- Também pude começar a aprender a estilizar paginas utilizando Css, oque apesar de básico no projeto, pode me introduzir a área.</p>
+<p>- Começar a aprender a estilizar paginas utilizando Css, oque apesar de básico no projeto, pode me introduzir a área.</p>
 
-<p>- Alem disso pude aprender varias sintaxes de HTML utilizadas em grandes projetos, ganhando familiaridade com a linguagem de marcação</p>
+<p>- Descobrir e aprender varias sintaxes de HTML utilizadas em grandes projetos, ganhando familiaridade com a linguagem de marcação</p>
 
 <br>
 <hr>
 
 <h3>Sistema de Gestão de Chamadas de Serviço</h3>
 <h4 id="2Semestre"> → 2º Semestre de 2023</h4>
+<h4> Equipe: <a href="https://github.com/BananaaScript">BananaScript: </a> BetterCallUs</h4>
 <br>
-<h4>Parceiro Acadêmico: ⁣/h4>
+<h4>Parceiro Acadêmico:</h4>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/57918707/138463350-4d3cb9bf-785b-4639-b7f5-5465055c5171.jpg" style="width: 35%;" alt="Fatec de São José dos Campos"> </p>
 
@@ -117,13 +120,57 @@
 
 <br>
 
+<h5>Escopo do Projeto:</h5>
+<p><b> A partir do desafio acadêmico proposto pelo cliente interno, o projeto consiste em um sistema de gestão de chamadas de serviço, que consiste em um sistema com três frentes: </b> O usuário comum que consulta a central de problemas ou realiza a solicitação de suporte técnico para a solução do possível problema. O suporte que atende os usuários resolvendo os seus problemas e computa o problema relatado pelo usuário, podendo assim ser consultado no futuro. O administrador é responsável por gerenciar e cadastrar os usuário e equipamentos.</p>
+<br>
 
+<h5>Tecnologias Adotadas:</h5>
+
+<div style="display: flex; flex-direction: row;">
+
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 10%;" alt="Git">
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" style="width: 10%;" alt="Figma">
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="width: 10%;" alt="Typescript">
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 10%;" alt="React">
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 10%;" alt="Node.js">
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 10%;" alt="Html5">
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 10%;" alt="Css3">
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="width: 10%;" alt="MySql">
+
+</div>
+<br>
+
+<br>
+<h5>Visualização do Protótipo do Projeto</h5>
+<p align="center"> <a href="./public/doc/2Semestre_API_Wireframe.pdf">Wireframe do Sistema</a> </p>
+
+<br>
+
+<h5>Minhas Contribuições: </h5>
+
+<p>Durante o processo de desenvolvimento eu pude ocupar o cargo de desenvolverdor frontend durante as 2 primeiras Sprints e ocupei o cargo de Product Owner na segunda metade do desenvolvimento, ainda fazendo tarefas do frontend. Porém por ter todo o sistema desenvolvido em Typescript, muitas tarefas tiveram o envolvimento de varias pessoas, oque facilitava o desenvolvimento mas acabava impedindo o progresso individual</p>
+
+<p>Durante meu período como desenvolvedor, enfrentei novos desafios, já que comparado ao API anterior esse seria muito maior. Entretanto, consegui fazer aquilo que me foi proposto, entregando minhas atividades com qualidade e sempre me interessando pelo processo de gestão da equipe.</p>
+<b>Portanto, quando o grupo começou a apresentar dificuldades em seu gerenciamento, me disponibilizei para me tornar o Product Owner e tornando o antigo Product Owner e Scrum Master.<b/>
+
+<p>Enfim, durante as ultimas duas Sprints, pudemos corrigir os problemas que estavamos trazendo das ultimas Sprints e conseguimos fazer uma entrega satisfatoria tanto para o cliente quanto para o grupo</p>
+
+<br>
+
+<h5>Oque Aprendi Durante o Desenvolvimento: </h5>
+
+<p>- Tive mais contato com Linguagens utilizadas em grandes projetos de sistemas Web</p>
+
+<p>- Adquiri mais familiariedade com sistemas desenvolvidos utilizando Typescript, Node.js e React</p>
+
+<p>- Pude gerir a equipe de desenvolvimento como Product Owner e busquei metodos de documentar e gestão de uma equipe</p>
 
 <br>
 <hr>
 
 <h3>Sistema Gerenciador de Ativos</h3>
 <h4 id="3Semestre"> → 1º Semestre de 2024</h4>
+<h4> Equipe: <a href="https://github.com/BananaaScript">BananaScript: </a> SGA (Sistema Gerenciador de Ativos)</h4>
 <br>
 <h4>Parceiro Acadêmico:</h4>
 
