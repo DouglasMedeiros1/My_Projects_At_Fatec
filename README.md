@@ -1,4 +1,4 @@
-<h1>Portfólio dos projetos que desenvolvi durante o curso de Desenvolvimento de Software Multiplataforma na Fatec</h1> 
+<h1>Portfólio do Meu Desempenho e Desenvlvimento em Projetos da Fatec</h1> 
 
 <h3>Introdução: </h3> 
 <p>Neste repositório planejo apresentar um resumo de projetos pessoais e projetos semestrais que desenvolvi e que venho desenvolvendo enquanto curso D.S.M. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Desenvolvimento de Software Multiplataforma</a>)  na Fatec de São José dos Campos.</p>
@@ -84,7 +84,7 @@
 <br>
 
 <br>
-<h5>Visualização do Projeto Final</h5>
+<h5>Visualização do Projeto Final (Gif)</h5>
 <p align="center"> <img src="./public/videos/1Semestre_API_Wireframe.gif" style="width: 75%;" alt="Gif do Projeto do 1 Semestre"> </p>
 
 <br>
@@ -141,19 +141,19 @@
 <br>
 
 <br>
-<h5>Visualização do Protótipo do Projeto</h5>
+<h5>Visualização do Protótipo do Projeto (PDF)</h5>
 <p align="center"> <a href="./public/doc/2Semestre_API_Wireframe.pdf">Wireframe do Sistema</a> </p>
 
 <br>
 
 <h5>Minhas Contribuições: </h5>
 
-<p>Durante o processo de desenvolvimento eu pude ocupar o cargo de desenvolverdor frontend durante as 2 primeiras Sprints e ocupei o cargo de Product Owner na segunda metade do desenvolvimento, ainda fazendo tarefas do frontend. Porém por ter todo o sistema desenvolvido em Typescript, muitas tarefas tiveram o envolvimento de varias pessoas, oque facilitava o desenvolvimento mas acabava impedindo o progresso individual</p>
+<p>Durante o processo de desenvolvimento pude ocupar o cargo de desenvolvedor frontend durante as 2 primeiras Sprints e ocupei o cargo de Product Owner na segunda metade do desenvolvimento, ainda fazendo tarefas do frontend. Porém, por ter todo o sistema desenvolvido em Typescript, muitas tarefas tiveram o envolvimento de várias pessoas, oque facilitava o desenvolvimento mas acabava impedindo o progresso individual⁣. </p>
 
 <p>Durante meu período como desenvolvedor, enfrentei novos desafios, já que comparado ao API anterior esse seria muito maior. Entretanto, consegui fazer aquilo que me foi proposto, entregando minhas atividades com qualidade e sempre me interessando pelo processo de gestão da equipe.</p>
 <b>Portanto, quando o grupo começou a apresentar dificuldades em seu gerenciamento, me disponibilizei para me tornar o Product Owner e tornando o antigo Product Owner e Scrum Master.<b/>
 
-<p>Enfim, durante as ultimas duas Sprints, pudemos corrigir os problemas que estavamos trazendo das ultimas Sprints e conseguimos fazer uma entrega satisfatoria tanto para o cliente quanto para o grupo</p>
+<p>Enfim, durante as últimas duas Sprints, pudemos corrigir os problemas que estavamos trazendo das últimas Sprints e conseguimos fazer uma entrega satisfatoria tanto para o cliente quanto para o grupo</p>
 
 <br>
 
@@ -163,7 +163,7 @@
 
 <p>- Adquiri mais familiariedade com sistemas desenvolvidos utilizando Typescript, Node.js e React</p>
 
-<p>- Pude gerir a equipe de desenvolvimento como Product Owner e busquei metodos de documentar e gestão de uma equipe</p>
+⁣-Pude gerir a equipe de desenvolvimento como Product Owner e busquei métodos de documentar e gestão de uma equipe</p>
 
 <br>
 <hr>
@@ -179,3 +179,54 @@
 <p align="center" ><a href="https://youtan.com.br/">Youtan: Conectando Oportunidades e Soluções</a></p>
 
 <br>
+
+<h5>Escopo do Projeto:</h5>
+
+<p>Este projeto pretende desenvolver um sistema gerenciador de ativos (SGA), proporcionando a uma empresa uma plataforma eficaz de gerenciamento de ativos, com funcionalidades intuitivas, o SGA simplifica o processo de gerenciamento dos ativos, garantindo uma administração eficiente.</p>
+<br>
+
+<h5>Tecnologias Adotadas:</h5>
+
+<div style="display: flex; flex-direction: row;">
+
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 10%;" alt="Git">
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" style="width: 10%;" alt="Figma">
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="width: 10%;" alt="Typescript">
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="width: 10%;" alt="React">
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="width: 10%;" alt="Node.js">
+  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="width: 10%;" alt="Java">
+  <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" style="width: 10%;" alt="Spring">
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 10%;" alt="Html5">
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 10%;" alt="Css3">
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="width: 10%;" alt="MySql">
+
+</div>
+<br>
+
+<br>
+<h5>Visualização do Escopo do Projeto (PowerPoint)</h5>
+<p align="center"> <a href="./public/doc/3Semestre_API_Escopo.pptmf">Escopo do Sistema</a> </p>
+
+<br>
+
+<h5>Minhas Contribuições: </h5>
+
+<p>Nesse projeto desenvolvi sistemas no frontend utilizando Typescript e pude novamente ocupar o cargo de Product Owner durante 3 Sprints, pois na quarta Sprint o grupo apresentava problemas de desempenho e necessitava de alteração nos cargos.</p>
+
+<p> Com novos integrantes no grupo, a dificuldade de gestão foi maior, entretanto por não só participar mas também por definir as prioridades e as funcionalidades do sistema durante o kickoff do projeto, pudemos ter um melhor definição do que e de como deveria ser feito.</p>
+
+<b> Como desenvolvedor Frontend pude aprimorar muito meus conhecimentos em Typescript e React em um sistema orientado a objetos. Alem disso por ter o backend mais isolado, por ser desenvolvido em Java, foi possivel aprimorar mais minhas habilidades individuais, entregando interfaces que tiveram aprovação e satisfacao por parte do cliente.<b/>
+
+
+<br>
+
+<h5>Oque Aprendi Durante o Desenvolvimento: </h5>
+
+<p>- Como documentar de forma mais clara e transparente o processo do desenvolvimento de um projeto</p>
+
+<p>- Novas habilidades em definir prazos, entregas, prioridades e gerenciar a expectativa do cliente e da equipe de desenvolvimento</p>
+
+<p>- Aprimoramento de minhas habilidades em desenvolver sistemas orientados a objetos</p>
+
+<br>
+<hr>
