@@ -55,9 +55,9 @@
 <p>Durante o semestre, há 5 etapas até o fim do desenvolvimento do projeto, sendo elas: 4 Sprints com duração de 3 semanas cada o Kickoff, onde nos é apresentação a proposta e a empresa parceira que será o cliente a quem devemos alinhar expectativas e tirar dúvidas sobre os requisitos, além de ser quem define se aquilo que foi entregue na Sprint atende a necessidade da empresa.   </p>
 <br>
 
-<h3>Sistema de Analise de Dados Relacionados à Covid Longa</h3>
-<h4 id="1Semestre"> → 1º Semestre de 2023</h4>
-<h4> Equipe: <a href="https://github.com/api-fatec-primeiro-semestre">ACE: </a> Sistema de Analise de Dados da Covid Longa</h4>
+<h3 id="1Semestre">Sistema de Analise de Dados Relacionados à Covid Longa</h3>
+<h5> Equipe: <a href="https://github.com/api-fatec-primeiro-semestre">ACE </a>- Sistema de Analise de Dados da Covid Longa</h5>
+<h4> → 1º Semestre de 2023</h4>
 <br>
 <h4>Parceiro Acadêmico:</h4>
 
@@ -108,9 +108,9 @@
 <br>
 <hr>
 
-<h3>Sistema de Gestão de Chamadas de Serviço</h3>
-<h4 id="2Semestre"> → 2º Semestre de 2023</h4>
-<h4> Equipe: <a href="https://github.com/BananaaScript">BananaScript: </a> BetterCallUs</h4>
+<h3 id="2Semestre">Sistema de Gestão de Chamadas de Serviço</h3>
+<h5> Equipe: <a href="https://github.com/BananaaScript">BananaScript </a>- BetterCallUs</h5>
+<h4 > → 2º Semestre de 2023</h4>
 <br>
 <h4>Parceiro Acadêmico:</h4>
 
@@ -168,9 +168,9 @@
 <br>
 <hr>
 
-<h3>Sistema Gerenciador de Ativos</h3>
-<h4 id="3Semestre"> → 1º Semestre de 2024</h4>
-<h4> Equipe: <a href="https://github.com/BananaaScript">BananaScript: </a> SGA (Sistema Gerenciador de Ativos)</h4>
+<h3 id="3Semestre">Sistema Gerenciador de Ativos</h3>
+<h5> Equipe: <a href="https://github.com/BananaaScript">BananaScript </a>- SGA (Sistema Gerenciador de Ativos)</h5>
+<h4 > → 1º Semestre de 2024</h4>
 <br>
 <h4>Parceiro Acadêmico:</h4>
 
