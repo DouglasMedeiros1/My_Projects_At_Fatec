@@ -1,4 +1,4 @@
-<h1>Portfólio do Meu Desempenho e Desenvlvimento em Projetos da Fatec</h1> 
+<h1>Portfólio do Meu Desempenho e Desenvolvimento em Projetos da Fatec</h1> 
 
 <h3>Introdução: </h3> 
 <p>Neste repositório planejo apresentar um resumo de projetos pessoais e projetos semestrais que desenvolvi e que venho desenvolvendo enquanto curso D.S.M. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Desenvolvimento de Software Multiplataforma</a>)  na Fatec de São José dos Campos.</p>
@@ -162,8 +162,7 @@
 <p>- Tive mais contato com Linguagens utilizadas em grandes projetos de sistemas Web</p>
 
 <p>- Adquiri mais familiariedade com sistemas desenvolvidos utilizando Typescript, Node.js e React</p>
-
-⁣-Pude gerir a equipe de desenvolvimento como Product Owner e busquei métodos de documentar e gestão de uma equipe</p>
+⁣<p>- Pude gerir a equipe de desenvolvimento como Product Owner e busquei métodos de documentar e gestão de uma equipe</p>
 
 <br>
 <hr>
