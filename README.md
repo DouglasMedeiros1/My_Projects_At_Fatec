@@ -9,10 +9,10 @@
 
 ####  → <a color="white" href="#quem-sou-eu">Sobre mim</a><br>
 ####  → <a color="white" href="#fatec">Minha experiência na Fatec</a><br>
-####  → <a color="white" href="#projetos">Meus projetos</a>
-    - <a href="#1Semestre"> 1º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre">Sistema de analise de dados relacionados à Covid Longa</a>)
-   - <a href="#2Semestre"> 2º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Sistema de gestão de chamadas de serviço</a>)
-   - <a href="#3Semestre"> 3º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Sistema gerenciador de ativos</a>)
+####  → <a color="white" href="#projetos">Meus projetos: </a>
+- <a href="#1Semestre"> 1º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre">Sistema de analise de dados relacionados à Covid Longa</a>)
+- <a href="#2Semestre"> 2º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Sistema de gestão de chamadas de serviço</a>)
+- <a href="#3Semestre"> 3º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Sistema gerenciador de ativos</a>)
 
 
  
@@ -83,7 +83,7 @@
 
 <br>
 <h5>Visualização do Projeto Final</h5>
-<p align="center"> <img src="./public/videos/Wireframe.gif" style="width: 40%;" alt="Gif do Projeto do 1 Semestre"> </p>
+<p align="center"> <img src="./public/videos/Wireframe.gif" style="width: 75%;" alt="Gif do Projeto do 1 Semestre"> </p>
 
 <br>
 
@@ -104,6 +104,8 @@
 <p>- Alem disso pude aprender varias sintaxes de HTML utilizadas em grandes projetos, ganhando familiaridade com a linguagem de marcação</p>
 
 <br>
+<hr>
+
 <h3>Sistema de Gestão de Chamadas de Serviço</h3>
 <h4 id="2Semestre"> → 2º Semestre de 2023</h4>
 <br>
@@ -118,6 +120,8 @@
 
 
 <br>
+<hr>
+
 <h3>Sistema Gerenciador de Ativos</h3>
 <h4 id="3Semestre"> → 1º Semestre de 2024</h4>
 <br>
