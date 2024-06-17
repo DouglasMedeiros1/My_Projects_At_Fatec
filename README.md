@@ -107,6 +107,11 @@
 
 <br>
 
+<h6> HardSkills Aprendidas: </h6>
+
+<details>
+<summary> Hard Skills </summary>
+  <br>
 <table align="center">
     <tr>
       <th width="300px">Tecnologia</th>
@@ -132,8 +137,24 @@
       <td>Css</td>
       <td>★★★☆☆</td>
     </tr>
-  </table>
+ </table>
+ <p align="center">* A classificação acima não refere-se a nota obtida durante o semestre, é apenas uma autoavalização com base no tempo, conhecimento e familiaridade que tive com a tecnologia.</p>
 
+<br>
+</details>
+<br>
+
+<h6> SoftSkills Aprendidas: </h6>
+<details>
+<summary> SoftSkills </summary>
+<br>
+<p> Aprender sobre a metodologis agil de forma prática, desde sua estrutura até sua execução. </p>
+
+<p> Me adaptei ao convivio em faculdade, levando a sério a necessidade de obter conhecimento e experiencias. </p>
+
+<p> Convivi com diferentes tipos de pessoas, com variedade de gostos, idades e experiencias. </p>
+
+</details>
 <br>
 
 <hr>
@@ -197,10 +218,15 @@
 
 <br>
 
+<h6> HardSkills Aprendidas: </h6>
+
+<details>
+<summary> Hard Skills </summary>
+  <br>
 <table align="center">
     <tr>
       <th width="300px">Tecnologia</th>
-      <th width="300px">Classificação</th>
+      <th width="300px">Conhecimento / Familiaridade</th>
     </tr>
     <tr>
       <td>Git / Github</td>
@@ -230,10 +256,26 @@
         <td>MySql</td>
         <td>★★☆☆☆</td>
       </tr>
+
   </table>
+ <p align="center">* A classificação acima não refere-se a nota obtida durante o semestre, é apenas uma autoavalização com base no tempo, conhecimento e familiaridade que tive com a tecnologia.</p>
 
 <br>
 
+</details>
+<br>
+   <h6> SoftSkills Aprendidas: </h6>
+<details>
+<summary> SoftSkills </summary>
+<br>
+<p> Aprendi sobre como gerir uma equipe na metodologia agil, desde gerenciar expectativas até a definir entregar e prazos. </p>
+
+<p> Aprendi a como obter uma comunicação efetiva com o cliente, sabendo assim oque perguntar e como perguntar. </p>
+
+<p> Aprendi a como tomar a liderança em um projeto, mostrando interesse e ajudando meus colegas a concluir suas tarefas. </p>
+
+</details>
+<br> 
 <hr>
 
 <h3 id="3Semestre">Sistema Gerenciador de Ativos</h3>
@@ -298,6 +340,12 @@
 
 <br>
 
+
+<h6> HardSkills Aprendidas: </h6>
+
+<details>
+<summary> Hard Skills </summary>
+  <br>
 <table align="center">
     <tr>
       <th width="300px">Tecnologia</th>
@@ -339,7 +387,26 @@
         <td>★★★★☆</td>
       </tr>
       <tr>
-  </table>
+ </table>
+ <p align="center">* A classificação acima não refere-se a nota obtida durante o semestre, é apenas uma autoavalização com base no tempo, conhecimento e familiaridade que tive com a tecnologia.</p>
 
+<br>
+</details>
+
+<br>
+<h6> SoftSkills Aprendidas: </h6>
+<details>
+<summary> SoftSkills </summary>
+<br>
+<p> Melhorei minha comunicação com meus colegas de equipe e com o cliente, ja que neste semestre pudemos ter a experiencia com uma empresa parceira externa. </p>
+
+<p> Pude definir metas e acordar com o cliente as funcionalidade por ser o principal participador do Kickoff, experiencia que ainda não tinha passado. </p>
+
+<p> Aprendi a ser versatil e poder instruir adequadamente o novo Product Owner no meio do processo da 3 Sprint. </p>
+
+</details>
+<br>
+<br>
+<br>
 <br>
 <hr>
