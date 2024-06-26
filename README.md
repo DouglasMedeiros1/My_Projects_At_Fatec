@@ -14,7 +14,7 @@
 #### → <a color="white" href="#projects">My projects: </a>
 
 - <a href="#1Semestre"> 1st Semester:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec- Primeiro-semestre/api- Primeiro-semestre ">Data analysis system related to Long Covid</a>)
-- <a href="#2Semester"> 2nd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Service call management system< /a>)
+- <a href="#2Semester"> 2nd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Service call management system</a>)
 - <a href="#3Semester"> 3rd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Asset management system</a> )
  <br>
  <hr>
