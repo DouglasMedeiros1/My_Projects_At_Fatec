@@ -1,77 +1,71 @@
-<h1>Portfólio do Meu Desempenho e Desenvolvimento em Projetos da Fatec</h1> 
+<h1>Portfolio of My Performance and Development in Fatec Projects</h1>
 
-<h3>Introdução: </h3> 
-<p>Neste repositório planejo apresentar um resumo de projetos pessoais e projetos semestrais que desenvolvi e que venho desenvolvendo enquanto curso D.S.M. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Desenvolvimento de Software Multiplataforma</a>)  na Fatec de São José dos Campos.</p>
+<h3>Introduction: </h3> 
+<p>In this repository I plan to present a summary of personal projects and semester projects that I have developed and that I have been developing as a D.S.M. course. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Multiplatform Software Development</a>)  at Fatec from São José dos Campos.</p>
 
-<p>Atualmente estou cursando o terceiro semestre do curso, e por chegar à metade do curso, já é possível obter um panorama daquilo que foi desenvolvido durante esse período.</p>
+<p>I'm currently studying the third semester of the course, and as I'm halfway through the course, it's now possible to get an overview of what was developed during this period.</p>
 <br />
-<h2>Índice</h2> 
+<h2>Index</h2>
 
-####  → <a color="white" href="#quem-sou-eu">Sobre mim</a><br>
-####  → <a color="white" href="#fatec">Minha experiência na Fatec</a><br>
-####  → <a color="white" href="#projetos">Meus projetos: </a>
-- <a href="#1Semestre"> 1º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre">Sistema de analise de dados relacionados à Covid Longa</a>)
-- <a href="#2Semestre"> 2º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Sistema de gestão de chamadas de serviço</a>)
-- <a href="#3Semestre"> 3º Semestre:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Sistema gerenciador de ativos</a>)
+#### → <a color="white" href="#who-am-I">About me</a><br>
 
+#### → <a color="white" href="#fatec">My experience at Fatec</a><br>
 
- 
+#### → <a color="white" href="#projects">My projects: </a>
+
+- <a href="#1Semestre"> 1st Semester:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec- Primeiro-semestre/api- Primeiro-semestre ">Data analysis system related to Long Covid</a>)
+- <a href="#2Semester"> 2nd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Service call management system< /a>)
+- <a href="#3Semester"> 3rd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Asset management system</a> )
  <br>
  <hr>
-<h2 id="quem-sou-eu">Quem sou eu?</h2> 
+<h2 id="who-am-I">Who am I?</h2> 
 <br>
 <p align="center"><img src="./public/imgs/myImage.jpg" alt="My Image" style="width: 25%;"></p>
 
-<h4 align="center"> - <a target="_blank" href="https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/">Linkedin</a> - <a target="_blank" href="https://github.com/DouglasMedeiros1">GitHub</a> - </h4>
+<h4 align="center"> - <a target="_blank" href="https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/">Linkedin</a> - <a target ="_blank" href="https://github.com/DouglasMedeiros1">GitHub</a> - </h4>
 
 <br>
-<b>Me chamo Douglas, sou um desenvolvedor de  19 anos que está aprendendo sobre o desenvolvimento de sistemas de forma prática.</b> Durante esses últimos três semestres venho aprendendo muito sobre o mundo da programação, aumentando o desejo de desenvolver sistemas complexos e, ao mesmo tempo, familiar aos usuários.
+<b>My name is Douglas, I'm a 19-year-old developer who is learning about systems development in a practical way.</b> During these last three semesters I've been learning a lot about the world of programming, increasing my desire to develop complex systems and, at the same time, familiar to users.
 
 
 <br />
-<h4>Áreas de Interesse</h4>
-<p>Tenho um grande interesse em várias áreas da tecnologia, especialmente em Desenvolvimento Web, Desenvolvimento de Jogos e Inteligência Artificial. </p>
-
-
-
+<h4>Areas of Interest</h4>
+<p>I have a great interest in various areas of technology, especially Web Development, Game Development and Artificial Intelligence. </p>
 <br><hr>
 
+<h3 id="fatec">My experience at Fatec</h3>
 
-<h3 id="fatec">Minha experiência na Fatec</h3>
+<p>Since joining Fatec in 2023, I have been learning a lot about the development of object-oriented systems thanks to the Integrated Project Learning method, where it is possible to develop systems in a practical way, simulating real projects using agile methods. </p>
 
-<p>Desde que ingressei na Fatec, em 2023, venho aprendendo muito sobre o desenvolvimento de sistemas orientado a objetos graças ao método de Aprendizado por Projeto Integrado, onde é possível desenvolver sistemas de forma prática, simulando projetos reais utilizando métodos ágeis. </p>
-
-<p><b>Desde o começo do curso tive interesse por ocupar o cargo de Product Owner. </b> Pude exercer o cargo de Product Owner durante o segundo e o terceiro semestre, onde adquiri muito conhecimento sobre a area e sobre a gestão de equipes, além de obviamente me auxiliar a administrar as expectativas do cliente e da equipe de desenvolvimento.</p>
+<p><b>Since the beginning of the course I was interested in occupying the position of Product Owner. </b> I was able to hold the position of Product Owner during the second and third semester, where I gained a lot of knowledge about the area and team management, in addition to obviously helping me manage the expectations of the client and the development team. </p>
 
 
 <hr>
+<br>
+<h2 id="projects">My Projects</h2>
 
+
+<p>As the Fatec de SJC DSM course uses the Integrated Project Learning method, it is common to deliver a complete project every semester, using agile methodology.</p>
+<p>During the semester, there are 5 stages until the end of the project development, namely: 4 Sprints lasting 3 weeks each Kickoff, where we are presented with the proposal and the partner company that will be the client with whom we must align expectations and answer questions about the requirements, in addition to being the one who defines whether what was delivered in the Sprint meets the company's needs.   </p>
 <br>
 
-<h2 id="projetos">Meus Projetos</h2>
-
-
-<p>Como o curso de DSM da Fatec de SJC utiliza o método de Aprendizagem por Projeto Integrados, é comum entregar todo semestre um projeto completo, utilizando metodologia ágil.</p>
-<p>Durante o semestre, há 5 etapas até o fim do desenvolvimento do projeto, sendo elas: 4 Sprints com duração de 3 semanas cada o Kickoff, onde nos é apresentação a proposta e a empresa parceira que será o cliente a quem devemos alinhar expectativas e tirar dúvidas sobre os requisitos, além de ser quem define se aquilo que foi entregue na Sprint atende a necessidade da empresa.   </p>
+<h3 id="1Semester">Data Analysis System Related to Long Covid</h3>
+<h5> Team: <a href="https://github.com/api-fatec- Primeiro-semestre">ACE </a> - Long Covid Data Analysis System</h5>
+<h4> → 1st Semester of 2023</h4>
 <br>
-
-<h3 id="1Semestre">Sistema de Analise de Dados Relacionados à Covid Longa</h3>
-<h5> Equipe: <a href="https://github.com/api-fatec-primeiro-semestre">ACE </a>- Sistema de Analise de Dados da Covid Longa</h5>
-<h4> → 1º Semestre de 2023</h4>
-<br>
-<h4>Parceiro Acadêmico:</h4>
+<h4>Academic Partner:</h4>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/57918707/138463350-4d3cb9bf-785b-4639-b7f5-5465055c5171.jpg" style="width: 35%;" alt="Fatec de São José dos Campos"> </p>
 
-<p align="center" ><a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal</a></p>
+<p align="center" ><a href="https://fatecsjc-prd.azurewebsites.net/">Faculty of Technology of São José dos Campos - Prof. Jessen Vidal</a></p>
 
 <br>
 
-<h5>Escopo do Projeto:</h5>
-<p><b>O objetivo deste projeto é coletar e analisar dados relacionados à Covid Longa a partir do sistema Datasus (Tabnet), com o intuito de avaliar o impacto do "pós-pandemia" no Sistema Único de Saúde.</b> Focando nas cidades do Vale do Paraíba - São José dos Campos, Jacareí e Taubaté - a análise destes dados pode gerar resultados relevantes para futuras reportagens jornalísticas, tanto em nível regional quanto estadual e nacional.</p>
+<h5>Project Scope:</h5>
+<p><b>The objective of this project is to collect and analyze data related to Long Covid from the Datasus system (Tabnet), with the aim of evaluating the "post-pandemic" impact on the Unified Health System.</b > Focusing on the cities of Vale do Paraíba - São José dos Campos, Jacareí and Taubaté - the analysis of this data can generate relevant results for future journalistic reports, both at regional, state and national levels.</p>
 <br>
 
-<h5>Tecnologias Adotadas:</h5>
+<h5>Technologies Adopted:</h5>
 
 <div style="display: flex; flex-direction: row;">
 
@@ -82,40 +76,38 @@
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 10%;" alt="Css3">
 </div>
 <br>
-
 <br>
-<h5>Visualização do Projeto Final (Gif)</h5>
-<p align="center"> <img src="./public/videos/1Semestre_API_Wireframe.gif" style="width: 75%;" alt="Gif do Projeto do 1 Semestre"> </p>
-
-<br>
-
-<h5>Minhas Contribuições: </h5>
-
-<p>Durante o período de desenvolvimento do projeto, pude contribuir com o desenvolvimento do design da interface. Por ser um projeto curto e não utilizar sistemas minimamente complexos, os trabalhos individuais acabaram se tornando simples tarefas, contendo baixa ou nenhuma dificuldade.</p>
-
-<p>Durante a ultima Sprint tive meu melhor desempenho, onde me responsabilizei por re-estruturar a tela do projeto que apresentava a equipe, a proposta do projeto e nossos objetivos.</p>
+<h5>Final Project Preview (Gif)</h5>
+<p align="center"> <img src="./public/videos/1Semestre_API_Wireframe.gif" style="width: 75%;" alt="1 Semester Project Gif"> </p>
 
 <br>
 
-<h5>Oque Aprendi Durante o Desenvolvimento: </h5>
+<h5>My Contributions: </h5>
 
-<p>- Pude aprender a começar a trabalhar com Flask e Python, podendo aprender sobre a estrutura de um sistema utilizando Flask.</p>
+<p>During the project development period, I was able to contribute to the development of the interface design. Because it is a short project and does not use minimally complex systems, individual work ended up becoming simple tasks, containing little or no difficulty.</p>
 
-<p>- Começar a aprender a estilizar paginas utilizando Css, oque apesar de básico no projeto, pode me introduzir a área.</p>
-
-<p>- Descobrir e aprender varias sintaxes de HTML utilizadas em grandes projetos, ganhando familiaridade com a linguagem de marcação</p>
+<p>During the last Sprint I had my best performance, where I was responsible for re-structuring the project screen that presented the team, the project proposal and our objectives.</p>
 
 <br>
 
-<h6> HardSkills Aprendidas: </h6>
+<h5>What I Learned During Development: </h5>
 
+<p>- I was able to learn how to start working with Flask and Python, being able to learn about the structure of a system using Flask.</p>
+
+<p>- Start learning how to style pages using Css, which despite being basic in design, can introduce me to the area.</p>
+
+<p>- Discover and learn various HTML syntaxes used in large projects, gaining familiarity with the markup language</p>
+
+<br>
+
+<h6> HardSkills Learned: </h6>
 <details>
 <summary> Hard Skills </summary>
   <br>
 <table align="center">
     <tr>
-      <th width="300px">Tecnologia</th>
-      <th width="300px">Classificação</th>
+      <th width="300px">Technology</th>
+      <th width="300px">Rating</th>
     </tr>
     <tr>
       <td>Git / Github</td>
@@ -138,44 +130,43 @@
       <td>★★★☆☆</td>
     </tr>
  </table>
- <p align="center">* A classificação acima não refere-se a nota obtida durante o semestre, é apenas uma autoavalização com base no tempo, conhecimento e familiaridade que tive com a tecnologia.</p>
+ <p align="center">* The classification above does not refer to the grade obtained during the semester, it is just a self-assessment based on the time, knowledge and familiarity I had with technology.</p>
 
 <br>
 </details>
 <br>
 
-<h6> SoftSkills Aprendidas: </h6>
+<h6> SoftSkills Learned: </h6>
 <details>
 <summary> SoftSkills </summary>
 <br>
-<p> Aprender sobre a metodologis agil de forma prática, desde sua estrutura até sua execução. </p>
+<p> Learn about agile methodology in a practical way, from its structure to its execution. </p>
 
-<p> Me adaptei ao convivio em faculdade, levando a sério a necessidade de obter conhecimento e experiencias. </p>
+<p> I adapted to life at college, taking seriously the need to gain knowledge and experience. </p>
 
-<p> Convivi com diferentes tipos de pessoas, com variedade de gostos, idades e experiencias. </p>
+<p> I lived with different types of people, with a variety of tastes, ages and experiences. </p>
 
 </details>
 <br>
 
 <hr>
-
-<h3 id="2Semestre">Sistema de Gestão de Chamadas de Serviço</h3>
-<h5> Equipe: <a href="https://github.com/BananaaScript">BananaScript </a>- BetterCallUs</h5>
-<h4 > → 2º Semestre de 2023</h4>
+<h3 id="2Semestre">Service Call Management System</h3>
+<h5> Team: <a href="https://github.com/BananaaScript">BananaScript </a>- BetterCallUs</h5>
+<h4 > → 2nd Semester of 2023</h4>
 <br>
-<h4>Parceiro Acadêmico:</h4>
+<h4>Academic Partner:</h4>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/57918707/138463350-4d3cb9bf-785b-4639-b7f5-5465055c5171.jpg" style="width: 35%;" alt="Fatec de São José dos Campos"> </p>
 
-<p align="center" ><a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal</a></p>
+<p align="center" ><a href="https://fatecsjc-prd.azurewebsites.net/">Faculty of Technology of São José dos Campos - Prof. Jessen Vidal</a></p>
 
 <br>
 
-<h5>Escopo do Projeto:</h5>
-<p><b> A partir do desafio acadêmico proposto pelo cliente interno, o projeto consiste em um sistema de gestão de chamadas de serviço, que consiste em um sistema com três frentes: </b> O usuário comum que consulta a central de problemas ou realiza a solicitação de suporte técnico para a solução do possível problema. O suporte que atende os usuários resolvendo os seus problemas e computa o problema relatado pelo usuário, podendo assim ser consultado no futuro. O administrador é responsável por gerenciar e cadastrar os usuário e equipamentos.</p>
+<h5>Project Scope:</h5>
+<p><b> Based on the academic challenge proposed by the internal client, the project consists of a service call management system, which consists of a system with three fronts: </b> The common user who consults the call center problems or make a request for technical support to resolve the possible problem. Support that assists users by resolving their problems and computes the problem reported by the user, so that it can be consulted in the future. The administrator is responsible for managing and registering users and equipment.</p>
 <br>
 
-<h5>Tecnologias Adotadas:</h5>
+<h5>Technologies Adopted:</h5>
 
 <div style="display: flex; flex-direction: row;">
 
@@ -191,42 +182,39 @@
 </div>
 <br>
 
-<br>
-<h5>Visualização do Protótipo do Projeto (PDF)</h5>
-<p align="center"> <a href="./public/doc/2Semestre_API_Wireframe.pdf">Wireframe do Sistema</a> </p>
+<br><h5>Project Prototype View (PDF)</h5>
+<p align="center"> <a href="./public/doc/2Semestre_API_Wireframe.pdf">System Wireframe</a> </p>
 
 <br>
 
-<h5>Minhas Contribuições: </h5>
+<h5>My Contributions: </h5>
 
-<p>Durante o processo de desenvolvimento pude ocupar o cargo de desenvolvedor frontend durante as 2 primeiras Sprints e ocupei o cargo de Product Owner na segunda metade do desenvolvimento, ainda fazendo tarefas do frontend. Porém, por ter todo o sistema desenvolvido em Typescript, muitas tarefas tiveram o envolvimento de várias pessoas, oque facilitava o desenvolvimento mas acabava impedindo o progresso individual⁣. </p>
+<p>During the development process I was able to occupy the position of frontend developer during the first 2 Sprints and I occupied the position of Product Owner in the second half of development, still doing frontend tasks. However, because the entire system was developed in Typescript, many tasks involved the involvement of several people, which facilitated development but ended up impeding individual progress. </p>
 
-<p>Durante meu período como desenvolvedor, enfrentei novos desafios, já que comparado ao API anterior esse seria muito maior. Entretanto, consegui fazer aquilo que me foi proposto, entregando minhas atividades com qualidade e sempre me interessando pelo processo de gestão da equipe.</p>
-<b>Portanto, quando o grupo começou a apresentar dificuldades em seu gerenciamento, me disponibilizei para me tornar o Product Owner e tornando o antigo Product Owner e Scrum Master.<b/>
+<p>During my period as a developer, I faced new challenges, as compared to the previous API this would be much greater. However, I managed to do what was proposed to me, delivering my activities with quality and always being interested in the team management process.</p>
+<b>Therefore, when the group began to present difficulties in its management, I made myself available to become the Product Owner and becoming the former Product Owner and Scrum Master.<b/>
 
-<p>Enfim, durante as últimas duas Sprints, pudemos corrigir os problemas que estavamos trazendo das últimas Sprints e conseguimos fazer uma entrega satisfatoria tanto para o cliente quanto para o grupo</p>
+<p>Anyway, during the last two Sprints, we were able to correct the problems that we were bringing from the last Sprints and we were able to deliver a satisfactory delivery for both the client and the group</p>
 
-<br>
+<br><h5>What I Learned During Development: </h5>
 
-<h5>Oque Aprendi Durante o Desenvolvimento: </h5>
+<p>- I had more contact with languages ​​used in large Web systems projects</p>
 
-<p>- Tive mais contato com Linguagens utilizadas em grandes projetos de sistemas Web</p>
+<p>- I gained more familiarity with systems developed using Typescript, Node.js and React</p>
 
-<p>- Adquiri mais familiariedade com sistemas desenvolvidos utilizando Typescript, Node.js e React</p>
-
-<p>⁣- Pude gerir a equipe de desenvolvimento como Product Owner e busquei métodos de documentar e gestão de uma equipe</p>
+<p>⁣- I was able to manage the development team as Product Owner and looked for methods of documenting and managing a team</p>
 
 <br>
 
-<h6> HardSkills Aprendidas: </h6>
+<h6> HardSkills Learned: </h6>
 
 <details>
 <summary> Hard Skills </summary>
   <br>
 <table align="center">
     <tr>
-      <th width="300px">Tecnologia</th>
-      <th width="300px">Conhecimento / Familiaridade</th>
+      <th width="300px">Technology</th>
+      <th width="300px">Knowledge / Familiarity</th>
     </tr>
     <tr>
       <td>Git / Github</td>
@@ -258,44 +246,42 @@
       </tr>
 
   </table>
- <p align="center">* A classificação acima não refere-se a nota obtida durante o semestre, é apenas uma autoavalização com base no tempo, conhecimento e familiaridade que tive com a tecnologia.</p>
+ <p align="center">* The classification above does not refer to the grade obtained during the semester, it is just a self-assessment based on the time, knowledge and familiarity I had with technology.</p>
 
 <br>
-
 </details>
 <br>
-   <h6> SoftSkills Aprendidas: </h6>
+   <h6> SoftSkills Learned: </h6>
 <details>
 <summary> SoftSkills </summary>
 <br>
-<p> Aprendi sobre como gerir uma equipe na metodologia agil, desde gerenciar expectativas até a definir entregar e prazos. </p>
+<p> I learned about how to manage a team using the agile methodology, from managing expectations to defining deliverables and deadlines. </p>
 
-<p> Aprendi a como obter uma comunicação efetiva com o cliente, sabendo assim oque perguntar e como perguntar. </p>
+<p> I learned how to achieve effective communication with the client, thus knowing what to ask and how to ask. </p>
 
-<p> Aprendi a como tomar a liderança em um projeto, mostrando interesse e ajudando meus colegas a concluir suas tarefas. </p>
+<p> I learned how to take the lead on a project, showing interest and helping my colleagues complete their tasks. </p>
 
 </details>
 <br> 
 <hr>
-
-<h3 id="3Semestre">Sistema Gerenciador de Ativos</h3>
-<h5> Equipe: <a href="https://github.com/BananaaScript">BananaScript </a>- SGA (Sistema Gerenciador de Ativos)</h5>
-<h4 > → 1º Semestre de 2024</h4>
+<h3 id="3Semestre">Asset Management System</h3>
+<h5> Team: <a href="https://github.com/BananaaScript">BananaScript </a> - SGA (Asset Management System)</h5>
+<h4 > → 1st Semester of 2024</h4>
 <br>
-<h4>Parceiro Acadêmico:</h4>
+<h4>Academic Partner:</h4>
 
 <p align="center"> <img src="https://youtan.com.br/wp-content/uploads/2020/03/logo-youtan.png" style="width: 35%;" alt="Youtan"> </p>
 
-<p align="center" ><a href="https://youtan.com.br/">Youtan: Conectando Oportunidades e Soluções</a></p>
+<p align="center" ><a href="https://youtan.com.br/">Youtan: Connecting Opportunities and Solutions</a></p>
 
 <br>
 
-<h5>Escopo do Projeto:</h5>
+<h5>Project Scope:</h5>
 
-<p>Este projeto pretende desenvolver um sistema gerenciador de ativos (SGA), proporcionando a uma empresa uma plataforma eficaz de gerenciamento de ativos, com funcionalidades intuitivas, o SGA simplifica o processo de gerenciamento dos ativos, garantindo uma administração eficiente.</p>
+<p>This project aims to develop an asset management system (SGA), providing a company with an effective asset management platform, with intuitive functionalities, the SGA simplifies the asset management process, ensuring efficient administration.</p >
 <br>
 
-<h5>Tecnologias Adotadas:</h5>
+<h5>Technologies Adopted:</h5>
 
 <div style="display: flex; flex-direction: row;">
 
@@ -309,47 +295,43 @@
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width: 10%;" alt="Html5">
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="width: 10%;" alt="Css3">
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="width: 10%;" alt="MySql">
-
 </div>
 <br>
-
 <br>
-<h5>Visualização do Escopo do Projeto (PowerPoint)</h5>
-<p align="center"> <a href="./public/doc/3Semestre_API_Escopo.pptmf">Escopo do Sistema</a> </p>
-
-<br>
-
-<h5>Minhas Contribuições: </h5>
-
-<p>Nesse projeto desenvolvi sistemas no frontend utilizando Typescript e pude novamente ocupar o cargo de Product Owner durante 3 Sprints, pois na quarta Sprint o grupo apresentava problemas de desempenho e necessitava de alteração nos cargos.</p>
-
-<p> Com novos integrantes no grupo, a dificuldade de gestão foi maior, entretanto por não só participar mas também por definir as prioridades e as funcionalidades do sistema durante o kickoff do projeto, pudemos ter um melhor definição do que e de como deveria ser feito.</p>
-
-<b> Como desenvolvedor Frontend pude aprimorar muito meus conhecimentos em Typescript e React em um sistema orientado a objetos. Alem disso por ter o backend mais isolado, por ser desenvolvido em Java, foi possivel aprimorar mais minhas habilidades individuais, entregando interfaces que tiveram aprovação e satisfacao por parte do cliente.<b/>
-
+<h5>Project Scope View (PowerPoint)</h5>
+<p align="center"> <a href="./public/doc/3Semestre_API_Scopo.pptmf">System Scope</a> </p>
 
 <br>
 
-<h5>Oque Aprendi Durante o Desenvolvimento: </h5>
+<h5>My Contributions: </h5>
 
-<p>- Como documentar de forma mais clara e transparente o processo do desenvolvimento de um projeto</p>
+<p>In this project I developed systems on the frontend using Typescript and was once again able to occupy the position of Product Owner for 3 Sprints, as in the fourth Sprint the group had performance problems and needed to change roles.</p>
 
-<p>- Novas habilidades em definir prazos, entregas, prioridades e gerenciar a expectativa do cliente e da equipe de desenvolvimento</p>
+<p> With new members in the group, the management difficulty was greater, however, by not only participating but also defining the priorities and features of the system during the project kickoff, we were able to have a better definition of what and how it should be done.</p>
 
-<p>- Aprimoramento de minhas habilidades em desenvolver sistemas orientados a objetos</p>
+<b>As a Frontend developer I was able to greatly improve my knowledge of Typescript and React in an object-oriented system. Furthermore, by having a more isolated backend, as it was developed in Java, it was possible to further improve my individual skills, delivering interfaces that received approval and satisfaction from the client.<b/>
+
+
+<br><h5>What I Learned During Development: </h5>
+
+<p>- How to document the project development process in a clearer and more transparent way</p>
+
+<p>- New skills in defining deadlines, deliveries, priorities and managing client and development team expectations</p>
+
+<p>- Improving my skills in developing object-oriented systems</p>
 
 <br>
 
 
-<h6> HardSkills Aprendidas: </h6>
+<h6> HardSkills Learned: </h6>
 
 <details>
 <summary> Hard Skills </summary>
   <br>
 <table align="center">
     <tr>
-      <th width="300px">Tecnologia</th>
-      <th width="300px">Classificação</th>
+      <th width="300px">Technology</th>
+      <th width="300px">Rating</th>
     </tr>
     <tr>
       <td>Git / Github</td>
@@ -388,21 +370,21 @@
       </tr>
       <tr>
  </table>
- <p align="center">* A classificação acima não refere-se a nota obtida durante o semestre, é apenas uma autoavalização com base no tempo, conhecimento e familiaridade que tive com a tecnologia.</p>
+ <p align="center">* The classification above does not refer to the grade obtained during the semester, it is just a self-assessment based on the time, knowledge and familiarity I had with technology.</p>
 
 <br>
 </details>
 
 <br>
-<h6> SoftSkills Aprendidas: </h6>
+<h6> SoftSkills Learned: </h6>
 <details>
 <summary> SoftSkills </summary>
 <br>
-<p> Melhorei minha comunicação com meus colegas de equipe e com o cliente, ja que neste semestre pudemos ter a experiencia com uma empresa parceira externa. </p>
+<p> I improved my communication with my teammates and with the client, as this semester we were able to have experience with an external partner company. </p>
 
-<p> Pude definir metas e acordar com o cliente as funcionalidade por ser o principal participador do Kickoff, experiencia que ainda não tinha passado. </p>
+<p> I was able to define goals and agree on functionality with the client as I was the main participant in the Kickoff, an experience I had not yet had. </p>
 
-<p> Aprendi a ser versatil e poder instruir adequadamente o novo Product Owner no meio do processo da 3 Sprint. </p>
+<p> I learned to be versatile and be able to properly instruct the new Product Owner in the middle of the 3 Sprint process. </p>
 
 </details>
 <br>
