@@ -71,6 +71,7 @@
 <h5>Technologies Adopted:</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github)](https://skillicons.dev)
+
 <details>
 <summary> Technologies Names </summary>
 <br>
@@ -184,6 +185,8 @@
 <h5>Technologies Adopted:</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,mysql,git,github,figma)](https://skillicons.dev)
+
+<details>
 <summary> Technologies Names </summary>
 <br>
   <p> Typescript </p>
@@ -309,6 +312,8 @@
 <h5>Technologies Adopted:</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,java,spring,mysql,git,github,figma)](https://skillicons.dev)
+
+<details>
 <summary> Technologies Names </summary>
 <br>
   <p> Typescript </p>
@@ -449,6 +454,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,prisma,mongodb,postgres,gcp,docker,supabase,arduino,git,github)](https://skillicons.dev)
+
+<details>
 <summary> Technologies Names </summary>
 <br>
   <p> Typescript </p>
