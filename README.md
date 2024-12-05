@@ -477,7 +477,7 @@
 <br>
 <h5>Project Scope View (Video)</h5>
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/biOxUisMmRA)
+[![Watch the video](./public/imgs/TitleScreen.png)](https://youtu.be/biOxUisMmRA)
 
 <br>
 
