@@ -73,7 +73,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github)](https://skillicons.dev)
 
 <details>
-<summary> Technologies Names </summary>
+<summary> Technologies Names (Click to View) </summary>
 <br>
   <p> Python </p>
   <p> Flask </p>
@@ -110,7 +110,7 @@
 
 <h6> HardSkills Learned: </h6>
 <details>
-<summary> Hard Skills </summary>
+<summary> Hard Skills (Click to View)</summary>
   <br>
 <table align="center">
     <tr>
@@ -154,7 +154,7 @@
 
 <h6> SoftSkills Learned: </h6>
 <details>
-<summary> SoftSkills </summary>
+<summary> SoftSkills (Click to View)</summary>
 <br>
 <p> Learn about agile methodology in a practical way, from its structure to its execution. </p>
 
@@ -187,7 +187,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,mysql,git,github,figma)](https://skillicons.dev)
 
 <details>
-<summary> Technologies Names </summary>
+<summary> Technologies Names (Click to View) </summary>
 <br>
   <p> Typescript </p>
   <p> Node.js </p>
@@ -229,7 +229,7 @@
 <h6> HardSkills Learned: </h6>
 
 <details>
-<summary> Hard Skills </summary>
+<summary> Hard Skills (Click to View) </summary>
   <br>
 <table align="center">
     <tr>
@@ -281,7 +281,7 @@
 <br>
    <h6> SoftSkills Learned: </h6>
 <details>
-<summary> SoftSkills </summary>
+<summary> SoftSkills (Click to View) </summary>
 <br>
 <p> I learned about how to manage a team using the agile methodology, from managing expectations to defining deliverables and deadlines. </p>
 
@@ -314,7 +314,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,java,spring,mysql,git,github,figma)](https://skillicons.dev)
 
 <details>
-<summary> Technologies Names </summary>
+<summary> Technologies Names (Click to View) </summary>
 <br>
   <p> Typescript </p>
   <p> Node.js </p>
@@ -358,7 +358,7 @@
 <h6> HardSkills Learned: </h6>
 
 <details>
-<summary> Hard Skills </summary>
+<summary> Hard Skills (Click to View) </summary>
   <br>
 <table align="center">
     <tr>
@@ -420,7 +420,7 @@
 <br>
 <h6> SoftSkills Learned: </h6>
 <details>
-<summary> SoftSkills </summary>
+<summary> SoftSkills (Click to View) </summary>
 <br>
 <p> I improved my communication with my teammates and with the client, as this semester we were able to have experience with an external partner company. </p>
 
@@ -456,7 +456,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,prisma,mongodb,postgres,gcp,docker,supabase,arduino,git,github)](https://skillicons.dev)
 
 <details>
-<summary> Technologies Names </summary>
+<summary> Technologies Names (Click to View) </summary>
 <br>
   <p> Typescript </p>
   <p> Node.js </p>
@@ -503,7 +503,7 @@
 <h6> HardSkills Learned: </h6>
 
 <details>
-<summary> Hard Skills </summary>
+<summary> Hard Skills (Click to View) </summary>
   <br>
 <table align="center">
     <tr>
@@ -586,7 +586,7 @@
 <br>
 <h6> SoftSkills Learned: </h6>
 <details>
-<summary> SoftSkills </summary>
+<summary> SoftSkills (Click to View) </summary>
 <br>
 <p> I was able to organize with the group to define Devops standards. </p>
 
