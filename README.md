@@ -16,7 +16,7 @@
 - <a href="#1Semestre"> 1st Semester:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec- Primeiro-semestre/api- Primeiro-semestre ">Data analysis system related to Long Covid</a>)
 - <a href="#2Semester"> 2nd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Service call management system</a>)
 - <a href="#3Semester"> 3rd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Asset management system</a> )
-- <a href="#4Semester"> 4th Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaScripts/Meteorological-Data-Collector">API</a>)
+- <a href="#4Semester"> 4th Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaScripts/Meteorological-Data-Collector">Meteorological Station Data Collection and Processing System</a>)
  <br>
  <hr>
 <h2 id="who-am-I">Who am I?</h2> 
@@ -71,6 +71,15 @@
 <h5>Technologies Adopted:</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github)](https://skillicons.dev)
+<details>
+<summary> Technologies Names </summary>
+<br>
+  <p> Python </p>
+  <p> Flask </p>
+  <p> Html 5 </p>
+  <p> CSS 3 </p>
+  <p> Git/ Github </p>
+</details>
 
 
 <br>
@@ -175,7 +184,17 @@
 <h5>Technologies Adopted:</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,mysql,git,github,figma)](https://skillicons.dev)
-
+<summary> Technologies Names </summary>
+<br>
+  <p> Typescript </p>
+  <p> Node.js </p>
+  <p> React </p>
+  <p> HTML 5 </p>
+  <p> CSS 3 </p>
+  <p> Mysql </p>
+  <p> Figma </p>
+  <p> Git/ Github </p>
+</details>
 
 
 <br>
@@ -290,6 +309,19 @@
 <h5>Technologies Adopted:</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,java,spring,mysql,git,github,figma)](https://skillicons.dev)
+<summary> Technologies Names </summary>
+<br>
+  <p> Typescript </p>
+  <p> Node.js </p>
+  <p> React </p>
+  <p> Java </p>
+  <p> Spring </p>
+  <p> HTML 5 </p>
+  <p> CSS 3 </p>
+  <p> Mysql </p>
+  <p> Figma </p>
+  <p> Git/ Github </p>
+</details>
 
 <br>
 <br>
@@ -417,12 +449,28 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,css,prisma,mongodb,postgres,gcp,docker,supabase,arduino,git,github)](https://skillicons.dev)
-
+<summary> Technologies Names </summary>
+<br>
+  <p> Typescript </p>
+  <p> Node.js </p>
+  <p> React </p>
+  <p> HTML 5 </p>
+  <p> CSS 3 </p>
+  <p> Prisma </p>
+  <p> MongoDB </p>
+  <p> PostgreSQL </p>
+  <p> Google Cloud </p>
+  <p> Docker </p>
+  <p> Supabase </p>
+  <p> Arduino </p>
+  <p> Git/ Github </p>
+</details>
 
 <br>
 <br>
 <h5>Project Scope View (Video)</h5>
-<p align="center"> <a href="./public/videos/4Semestre_API_Resumo.mkv">System Scope</a> </p>
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/biOxUisMmRA)
 
 <br>
 
