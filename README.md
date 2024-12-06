@@ -13,7 +13,7 @@
 
 #### → <a color="white" href="#projects">Meus projetos:</a>
 
-- <a href="#1Semestre"> 1º Semestre:</a> (🔗<a target="_blank" href="https://github.com/api-fatec-First-Semester/api-First-Semester ">Sistema de análise de dados relacionados à Covid longa</a> a>)
+- <a href="#1Semestre"> 1º Semestre:</a> (🔗<a target="_blank" href="https://github.com/api-fatec-First-Semester/api-First-Semester ">Sistema de análise de dados relacionados à Covid longa</a> )
 - <a href="#2Semestre"> 2º Semestre:</a> (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Sistema de gerenciamento de chamadas de serviço</a> )
 - <a href="#3Semestre"> 3º Semestre:</a> (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Sistema de gerenciamento de ativos</a> )
 - <a href="#4Semestre"> 4º Semestre:</a> (🔗<a target="_blank" href="https://github.com/BananaScripts/Meteorological-Data-Collector">Sistema de Coleta e Processamento de Dados de Estações Meteorológicas</a>)
@@ -46,7 +46,7 @@
 <h2 id="projects">Meus Projetos</h2>
 
 <p>Como o curso de DSM da Fatec de SJC utiliza o método Project-Based Learning, é comum entregarmos um projeto completo a cada semestre, utilizando metodologia ágil.</p>
-<p>Durante o semestre, são 5 etapas até o final do desenvolvimento do projeto, que são: 4 Sprints com duração de 3 semanas cada Kickoff, onde nos é apresentada a proposta e a empresa parceira que será o cliente com quem devemos alinhar expectativas e esclarecer dúvidas sobre os requisitos, além de ser quem define se o que foi entregue no Sprint atende às necessidades da empresa.</p>
+<p>Durante o semestre, são 5 etapas até o final do desenvolvimento do projeto, que são: 4 Sprints com duração de 3 semanas cada e o Kickoff, onde nos é apresentada a proposta e a empresa parceira que será o cliente com quem devemos alinhar expectativas e esclarecer dúvidas sobre os requisitos, além de ser quem define se o que foi entregue no Sprint atende às necessidades da empresa.</p>
 <br>
 <h3 id="1Semestre">Sistema de Análise de Dados Relacionados à Covid Longa</h3>
 <h5> Equipe: <a href="https://github.com/api-fatec- Primeiro-semestre">ACE</a> - Sistema de Análise de Dados da Covid Longa</h5>
