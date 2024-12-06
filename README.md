@@ -1,9 +1,9 @@
-<h1>Portfolio of My Performance and Development in Fatec Projects</h1>
+<h1>Portfolio of My Work and Development in Fatec Projects</h1>
 
-<h3>Introduction: </h3> 
-<p>In this repository I plan to present a summary of personal projects and semester projects that I have developed and that I have been developing as a D.S.M. course. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Multiplatform Software Development</a>)  at Fatec from São José dos Campos.</p>
+<h3>Introduction:</h3>
+<p>In this repository I intend to present a summary of personal projects and semester projects that I have developed and that I have been developing as a D.S.M. discipline. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Multiplatform Software Development</a>) at Fatec in São José dos Campos.</p>
 
-<p>I'm currently studying the fourth semester of the course, and as I'm halfway through the course, it's now possible to get an overview of what was developed during this period.</p>
+<p>I am currently in the fourth semester of the course and, since I am almost at the end, it is already possible to have an overview of what was developed during this period.</p>
 <br />
 <h2>Index</h2>
 
@@ -11,45 +11,42 @@
 
 #### → <a color="white" href="#fatec">My experience at Fatec</a><br>
 
-#### → <a color="white" href="#projects">My projects: </a>
+#### → <a color="white" href="#projects">My projects:</a>
 
-- <a href="#1Semestre"> 1st Semester:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec- Primeiro-semestre/api- Primeiro-semestre ">Data analysis system related to Long Covid</a>)
-- <a href="#2Semester"> 2nd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Service call management system</a>)
-- <a href="#3Semester"> 3rd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Asset management system</a> )
-- <a href="#4Semester"> 4th Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaScripts/Meteorological-Data-Collector">Meteorological Station Data Collection and Processing System</a>)
- <br>
- <hr>
-<h2 id="who-am-I">Who am I?</h2> 
+- <a href="#1Semester"> 1st Semester:</a>    (🔗<a target="_blank" href="https://github.com/api-fatec-First-Semester/api-First-Semester ">Long Covid-related data analysis system</a>)
+- <a href="#2Semester"> 2nd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/BetterCallUs">Service Call Management System</a>)
+- <a href="#3Semester"> 3rd Semester:</a>    (🔗<a target="_blank" href="https://github.com/BananaaScript/SGA">Asset Management System</a> )
+- <a href="#4Semester"> 4th Semester:</a>(🔗<a target="_blank" href="https://github.com/BananaScripts/Meteorological-Data-Collector">Meteorological Station Data Collection and Processing System</a>)
+<br>
+<hr>
+<h2 id="who-am-I">Who am I?</h2>
 <br>
 <p align="center"><img src="./public/imgs/myImage.jpeg" alt="My Image" style="width: 25%;"></p>
 
 <h4 align="center"> - <a target="_blank" href="https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270/">Linkedin</a> - <a target ="_blank" href="https://github.com/DouglasMedeiros1">GitHub</a> - </h4>
 
 <br>
-<b>My name is Douglas, I'm a 19-year-old developer who is learning about systems development in a practical way.</b> During these last four semesters I've been learning a lot about the world of programming, increasing my desire to develop complex systems and, at the same time, familiar to users.
-
+<b>My name is Douglas, I am a 19-year-old developer who is learning about systems development in a practical way.</b> During these last four semesters I have been learning a lot about the world of programming, increasing my desire to develop complex systems that are, at the same time, familiar to users.
 
 <br />
 <h4>Areas of Interest</h4>
-<p>I have a great interest in various areas of technology, especially Web Development, Game Development and Artificial Intelligence. </p>
+<p>I have a great interest in several areas of technology, especially Web Development, IoT, Software Architecture and Artificial Intelligence</p>
 <br><hr>
 
 <h3 id="fatec">My experience at Fatec</h3>
 
-<p>Since joining Fatec in 2023, I have been learning a lot about the development of object-oriented systems thanks to the Integrated Project Learning method, where it is possible to develop systems in a practical way, simulating real projects using agile methods. </p>
+<p>Since I joined Fatec in 2023, I have been learning a lot about object-oriented systems development thanks to the Project Integrated Learning method, where it is possible to develop systems in a practical way, simulating real projects using agile methods.</p>
 
-<p><b>Since the beginning of the course I was interested in occupying the position of Product Owner. </b> I was able to hold the position of Product Owner during the second and third semester, where I gained a lot of knowledge about the area and team management, in addition to obviously helping me manage the expectations of the client and the development team. </p>
+<p><b>Since the beginning of the course, I have been interested in occupying the position of Product Owner. </b> I was able to work as a Product Owner during the second and third semesters, where I acquired a lot of knowledge about the area and team management, in addition to obviously helping me manage the expectations of the client and the development team.</p>
 
-<p>In the fourth semester, I focused on developing my practical skills, therefore, I did not act as a Product Owner or as a Scrum Master. However, I was able to participate in new areas, developing the architecture of the entire system and configuring the weather station, which improved my knowledge in the areas of Networks and IOT.</p>
-
+<p>In the fourth semester, I focused on developing my practical skills, so I did not work as a Product Owner or as a Scrum Master. However, I was able to participate in new areas, developing the architecture of the entire system and configuring the weather station, which improved my knowledge in the areas of Networks and IoT.</p>
 
 <hr>
 <br>
 <h2 id="projects">My Projects</h2>
 
-
-<p>As the Fatec de SJC DSM course uses the Integrated Project Learning method, it is common to deliver a complete project every semester, using agile methodology.</p>
-<p>During the semester, there are 5 stages until the end of the project development, namely: 4 Sprints lasting 3 weeks each Kickoff, where we are presented with the proposal and the partner company that will be the client with whom we must align expectations and answer questions about the requirements, in addition to being the one who defines whether what was delivered in the Sprint meets the company's needs.   </p>
+<p>Since the DSM course at Fatec de SJC uses the Project-Based Learning method, it is common for us to deliver a complete project each semester, using agile methodology.</p>
+<p>During the semester, there are 5 stages until the end of the project development, which are: 4 Sprints lasting 3 weeks each Kickoff, where we are presented with the proposal and the partner company that will be the client with whom we must align expectations and clarify doubts about the requirements, in addition to being the one who defines whether what was delivered in the Sprint meets the company's needs. </p>
 <br>
 
 <h3 id="1Semester">Data Analysis System Related to Long Covid</h3>
