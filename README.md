@@ -3,7 +3,7 @@
 <h3>Introduction: </h3> 
 <p>In this repository I plan to present a summary of personal projects and semester projects that I have developed and that I have been developing as a D.S.M. course. (<a target="_blank" href="https://www.cps.sp.gov.br/cursos-fatec/desenvolvimento-de-software-multiplataforma/">Multiplatform Software Development</a>)  at Fatec from São José dos Campos.</p>
 
-<p>I'm currently studying the third semester of the course, and as I'm halfway through the course, it's now possible to get an overview of what was developed during this period.</p>
+<p>I'm currently studying the fourth semester of the course, and as I'm halfway through the course, it's now possible to get an overview of what was developed during this period.</p>
 <br />
 <h2>Index</h2>
 
